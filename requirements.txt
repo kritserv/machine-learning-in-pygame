@@ -1,4 +1,0 @@
-pygame-ce
-moderngl
-scikit-learn
-joblib
